@@ -12,7 +12,7 @@ namespace CallingDll
 static void Main()
         {
             Calculator calculator = new Calculator();
-            calculator.Addition(5, 6);
+            calculator.Addition(7,4);
             Console.WriteLine();
         }
     }
