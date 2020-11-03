@@ -8,3 +8,12 @@ D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.csproj.Cor
 D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.csproj.CopyComplete
 D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.exe
 D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.pdb
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\bin\Debug\CallingDll.exe.config
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\bin\Debug\CallingDll.exe
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\bin\Debug\CallingDll.pdb
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\bin\Debug\EmployeeSalary.pdb
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\obj\Debug\CallingDll.csprojAssemblyReference.cache
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\obj\Debug\CallingDll.csproj.CoreCompileInputs.cache
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\obj\Debug\CallingDll.csproj.CopyComplete
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\obj\Debug\CallingDll.exe
+C:\Users\Satya\Desktop\desktop\Meenakshi\LTI training\projectpreparation\CallingDll\obj\Debug\CallingDll.pdb

@@ -13,7 +13,7 @@ namespace CallingDll
         {
             Calculator calculator = new Calculator();
             calculator.Addition(5, 6);
-            Console.WriteLine("addition is {0}", calculator.Addition(5, 6));
+            Console.WriteLine("addition is {0}", calculator.Addition(4,3));
             Console.Read();
         }
     }
