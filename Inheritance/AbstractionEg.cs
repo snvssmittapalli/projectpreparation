@@ -47,8 +47,8 @@ namespace Inheritance
                 SBI sbi = new SBI();
                 sbi.Educationloan();
                 sbi.Homeloan();
-                Console.WriteLine("sbi houseloan {0}", sbi.Homeloan());
-                Console.WriteLine("sbi educationloan {0}", sbi.Educationloan());
+                Console.WriteLine("sbi house loan: {0}", sbi.Homeloan());
+                Console.WriteLine("sbi education loan: {0}", sbi.Educationloan());
 
                 HDFC hdfc = new HDFC();
                 Console.WriteLine("hdfc houseloan {0}", hdfc.Homeloan());
