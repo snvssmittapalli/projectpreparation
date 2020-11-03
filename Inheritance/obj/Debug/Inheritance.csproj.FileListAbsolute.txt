@@ -1,0 +1,7 @@
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\bin\Debug\Inheritance.exe.config
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\bin\Debug\Inheritance.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\bin\Debug\Inheritance.pdb
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\obj\Debug\Inheritance.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\Inheritance\obj\Debug\Inheritance.pdb

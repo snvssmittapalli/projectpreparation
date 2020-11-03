@@ -1,0 +1,7 @@
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\bin\Debug\day4assignment.exe.config
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\bin\Debug\day4assignment.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\bin\Debug\day4assignment.pdb
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\obj\Debug\day4assignment.csproj.CoreCompileInputs.cache
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\obj\Debug\day4assignment.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\obj\Debug\day4assignment.pdb
+D:\get 873\.net\c#\day4\prjCsharpday4\day4assignment\obj\Debug\day4assignment.csprojAssemblyReference.cache

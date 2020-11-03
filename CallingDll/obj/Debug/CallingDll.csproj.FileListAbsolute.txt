@@ -1,0 +1,10 @@
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\bin\Debug\CallingDll.exe.config
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\bin\Debug\CallingDll.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\bin\Debug\CallingDll.pdb
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\bin\Debug\EmployeeSalary.dll
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\bin\Debug\EmployeeSalary.pdb
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.csprojAssemblyReference.cache
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.csproj.CoreCompileInputs.cache
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.csproj.CopyComplete
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.exe
+D:\get 873\.net\c#\day4\prjCsharpday4\CallingDll\obj\Debug\CallingDll.pdb
