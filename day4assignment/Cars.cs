@@ -38,7 +38,7 @@ namespace day4assignment
         }
         internal void ToyotaFunctionality()
         {
-            Console.WriteLine("it have good seat adjustment system ");
+            Console.WriteLine("it doesnot have good seat adjustment system ");
         }
     }
     class Cars
