@@ -14,7 +14,7 @@ namespace Inheritance
 
         internal void RBIemployee()
         {
-            Console.WriteLine("rbi employee details {0}", empno);
+            Console.WriteLine("details of employees in rbi: {0}", empno);
         }
 
     }
